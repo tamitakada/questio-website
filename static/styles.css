@@ -1,0 +1,11 @@
+* { margin: 0; border-box: none; }
+html, body { height: 100%; }
+
+@font-face {
+    font-family: BungeeHairline;
+    src: url("fonts/BungeeHairline-Regular.ttf");
+}
+
+h1 { font-family: BungeeHairline; font-size: 40px; text-align: center; }
+h2 { font-family: BungeeHairline; text-align: center; }
+h3 { font-family: BungeeHairline; text-align: center; }
